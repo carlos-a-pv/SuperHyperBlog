@@ -32,3 +32,11 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
+.footer {
+    text-align: center;
+    background-color: dimgrey;
+    padding: 2px;
+    color: white;
+    width: 100%;
+}
